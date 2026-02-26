@@ -1,0 +1,93 @@
+{
+  "categories": [
+    {
+      "name": "Starters",
+      "id": "starters",
+      "items": [
+        { "name": "Bologna Board", "description": "Smoked & flash-fried bologna chunks with cheddar cheese, banana peppers, pickles, and crackers.", "price": "$0.00" },
+        { "name": "Pig Platter", "description": "3 rib bones, smoked bologna, cheddar cheese, crackers, 3 BBQ sliders, and French fries.", "price": "$0.00" },
+        { "name": "Jalape\u00f1o Cornbread Basket", "description": "6 homemade muffins served with butter.", "price": "$0.00" },
+        { "name": "Fried Pickles", "description": "8oz of hand-battered dill pickle chips.", "price": "$0.00" },
+        { "name": "Basket of Rings", "description": "10oz golden and crispy onion rings.", "price": "$0.00" },
+        { "name": "Cheese Beans", "description": "Fried cheddar and pepperjack cheese cubes.", "price": "$0.00" },
+        { "name": "Nachos", "description": "Choice of grilled chicken, pulled pork, or chili. Covered in cheese, queso, peppers, salsa, and sour cream.", "price": "$0.00" },
+        { "name": "Party Fries", "description": "Choice of pulled pork or chili, topped with queso, cheese, bacon, and sour cream.", "price": "$0.00" },
+        { "name": "Chips with Queso and Salsa", "description": "Housemade creamy queso and fresh salsa.", "price": "$0.00" }
+      ]
+    },
+    {
+      "name": "Handhelds",
+      "id": "handhelds",
+      "items": [
+        { "name": "The Tavern Salad", "description": "Fresh greens, tomatoes, cucumbers, cheese, and croutons.", "price": "$0.00" },
+        { "name": "Table Burger", "description": "Black Angus beef, choice of cheese, lettuce, tomato, onion, and pickle. Served with 1 side.", "price": "$0.00" },
+        { "name": "Smokehouse Burger", "description": "Angus patty topped with BBQ pulled pork, cheddar, onion ring, and BBQ sauce. Served with 1 side.", "price": "$0.00" },
+        { "name": "The Big Rippy", "description": "Two 8oz Angus patties, bacon, American and Swiss, fried pickles, and special sauce. Served with 1 side.", "price": "$0.00" },
+        { "name": "Pulled Pork Sandwich", "description": "Slow-smoked pulled pork on a toasted bun with BBQ sauce and slaw. Served with 1 side.", "price": "$0.00" },
+        { "name": "Catfish Po'Boy", "description": "Fried catfish fillets, lettuce, tomato, and remoulade on a hoagie roll. Served with 1 side.", "price": "$0.00" }
+      ]
+    },
+    {
+      "name": "Plates & Sides",
+      "id": "plates",
+      "items": [
+        { "name": "Meat & 2 Sides", "description": "Served with a jalape\u00f1o cornbread muffin.", "price": "$0.00" },
+        { "name": "Meat & 3 Sides", "description": "Served with a jalape\u00f1o cornbread muffin.", "price": "$0.00" },
+        { "name": "4 Veggie Plate", "description": "Choice of 4 tavern sides and a cornbread muffin.", "price": "$0.00" }
+      ],
+      "optionsGroups": [
+        {
+          "heading": "Meats",
+          "options": [
+            "Country Fried Chicken & Gravy",
+            "Grilled or Blackened Chicken",
+            "Catfish (Grilled, Blackened, or Fried)",
+            "Hamburger Steak",
+            "Hand-pulled Smoked BBQ Pork"
+          ]
+        },
+        {
+          "heading": "Sides",
+          "options": [
+            "Mashed Potatoes",
+            "Turnip Greens",
+            "Green Beans",
+            "White Beans",
+            "Creamed Corn",
+            "Fried Okra",
+            "Cole Slaw",
+            "French Fries",
+            "Vegetables at the Ritz",
+            "Steamed Broccoli",
+            "Steamed Mixed Veggies",
+            "Mac & Cheese",
+            "Baked Potato",
+            "Baked Sweet Potato",
+            "Onion Rings"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Desserts",
+      "id": "desserts",
+      "items": [
+        { "name": "Monkey Cake", "description": "Chocolate banana cake with chocolate chips, chocolate icing, caramel drizzle, and whipped cream.", "price": "$0.00" },
+        { "name": "Lexi's Elvis Cake", "description": "", "price": "$0.00" }
+      ]
+    },
+    {
+      "name": "Kids & Small Bites",
+      "id": "kids",
+      "items": [
+        { "name": "Kensley's Chicken Tenders", "description": "Includes 1 side and a drink.", "price": "$0.00" },
+        { "name": "Ella's Grilled Cheese", "description": "Includes 1 side and a drink.", "price": "$0.00" },
+        { "name": "BBQ Pork Sandwich", "description": "Includes 1 side and a drink.", "price": "$0.00" },
+        { "name": "Jameson's Cheeseburger", "description": "Includes 1 side and a drink.", "price": "$0.00" },
+        { "name": "Catfish Fingers", "description": "Includes 1 side and a drink.", "price": "$0.00" },
+        { "name": "Cheese Quesadilla", "description": "Includes 1 side and a drink.", "price": "$0.00" },
+        { "name": "3 Wings", "description": "Includes 1 side and a drink.", "price": "$0.00" }
+      ]
+    }
+  ]
+}

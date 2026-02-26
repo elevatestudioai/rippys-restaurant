@@ -1,0 +1,12 @@
+{
+  "sectionLabel": "Our Story",
+  "sectionTitle": "A Gathering Place\nLike No Other",
+  "paragraph1": "Rippy's Table & Tavern isn't just another bar — it's a destination. Nestled in the heart of Nashville, we've crafted a space where the warmth of a neighborhood pub meets the refinement of a modern tavern. Every detail, from the hand-selected draft list to the scratch-made kitchen menu, has been designed with intention.",
+  "paragraph2": "Whether you're here for a quiet evening with friends, a celebratory dinner, or just need a seat at the bar and a cold one, you'll find that Rippy's feels like home. Our philosophy is simple: great food, honest drinks, and an atmosphere that makes everybody feel like somebody.",
+  "stats": [
+    { "number": "24", "label": "Taps on Draft" },
+    { "number": "100+", "label": "Whiskey Selection" },
+    { "number": "7", "label": "Days a Week" }
+  ],
+  "photo": ""
+}

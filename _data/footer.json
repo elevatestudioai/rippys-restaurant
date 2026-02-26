@@ -1,0 +1,18 @@
+{
+  "tagline": "Fabulous food, fun tavern toasts, and an atmosphere that makes everybody feel like a somebody.",
+  "motto": "Where Everybody is Somebody",
+  "phone": "(615) 866-9919",
+  "address": "8058 TN-100, Nashville, TN 37221",
+  "email": "JennyRippyRTT@outlook.com",
+  "hours": [
+    { "days": "Mon\u2013Thu", "time": "4pm \u2013 12am" },
+    { "days": "Fri\u2013Sat", "time": "11am \u2013 2am" },
+    { "days": "Sunday", "time": "11am \u2013 10pm" },
+    { "days": "Happy Hour", "time": "4\u20136pm Daily" }
+  ],
+  "socialLinks": [
+    { "platform": "Instagram", "url": "#" },
+    { "platform": "Facebook", "url": "#" },
+    { "platform": "TikTok", "url": "#" }
+  ]
+}
