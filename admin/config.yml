@@ -18,14 +18,14 @@ collections:
           - { label: "Section Title", name: "sectionTitle", widget: "string", default: "A Gathering Place Like No Other" }
           - { label: "Paragraph 1", name: "paragraph1", widget: "text" }
           - { label: "Paragraph 2", name: "paragraph2", widget: "text" }
-          - label: "Stats"
+          - label: "Highlights"
             name: "stats"
             widget: "list"
             max: 3
             min: 3
             fields:
-              - { label: "Number", name: "number", widget: "string" }
-              - { label: "Label", name: "label", widget: "string" }
+              - { label: "Heading", name: "number", widget: "string", hint: "e.g. Happy Hour, Family Owned" }
+              - { label: "Details", name: "label", widget: "string", hint: "e.g. Monday – Friday | 3:00 PM – 6:00 PM" }
           - { label: "Photo", name: "photo", widget: "image", required: false }
 
       # ── PHOTO GALLERY ──
