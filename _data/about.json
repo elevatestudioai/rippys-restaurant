@@ -1,12 +1,21 @@
 {
   "sectionLabel": "Our Story",
-  "sectionTitle": "A Gathering Place\nLike No Other",
-  "paragraph1": "Rippy's Table & Tavern isn't just another bar \u2014 it's a destination. Nestled in the heart of Nashville, we've crafted a space where the warmth of a neighborhood pub meets the refinement of a modern tavern. Every detail, from the hand-selected draft list to the scratch-made kitchen menu, has been designed with intention.",
-  "paragraph2": "Whether you're here for a quiet evening with friends, a celebratory dinner, or just need a seat at the bar and a cold one, you'll find that Rippy's feels like home. Our philosophy is simple: great food, honest drinks, and an atmosphere that makes everybody feel like somebody.",
+  "sectionTitle": "Made with Love and Built on Family, Memories, and Community.",
+  "paragraph1": "Proud Nashville natives, we built this space with one goal in mind — creating a place where everybody is a somebody. Rooted in family, memories, and community, our restaurant is more than just great food. It’s a gathering place—a neighborhood staple. A space where stories are shared, friendships grow, and everyone feels at home.\n\n",
+  "paragraph2": "From classic comfort food and nostalgic bar bites to tavern toasts and adventurous new dishes — and always, ALWAYS our signature Rippy's T&T BBQ — we have every appetite, attitude, and age covered. We hope your cup runneth over with good food, drink, and a sense of supportive community when you walk through our doors. Come and enjoy the flavors that have built our families and made a million memories around the table. Here’s to MANY more special memories and good times with you, your family, and your new friends that will become family at Rippy's Table & Tavern — where everybody is a somebody.",
   "stats": [
-    { "number": "Happy Hour", "label": "Monday \u2013 Friday | 3:00 PM \u2013 6:00 PM" },
-    { "number": "Happiest Hour", "label": "Sunday \u2013 Wednesday | 9:00 PM \u2013 10:00 PM" },
-    { "number": "Family Owned", "label": "& Operated" }
+    {
+      "number": "Happy Hour",
+      "label": "Monday – Friday | 3:00 PM – 6:00 PM"
+    },
+    {
+      "number": "Happiest Hour",
+      "label": "Sunday – Wednesday | 9:00 PM – 10:00 PM"
+    },
+    {
+      "number": "Family Owned",
+      "label": "& Operated"
+    }
   ],
   "photo": ""
 }
