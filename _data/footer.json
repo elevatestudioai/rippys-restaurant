@@ -1,17 +1,17 @@
 {
   "tagline": "Fabulous food, fun tavern toasts, and an atmosphere that makes everybody feel like a somebody.",
-  "motto": "Where Everybody is Somebody",
+  "motto": "Where Everybody Is A Somebody",
   "phone": "(615) 866-9919",
   "address": "8058 TN-100, Nashville, TN 37221",
-  "email": "JennyRippyRTT@outlook.com",
+  "email": "rippystableandtavern615@gmail.com",
   "hours": [
-    { "days": "Mon\u2013Thu", "time": "4pm \u2013 12am" },
-    { "days": "Fri\u2013Sat", "time": "11am \u2013 2am" },
-    { "days": "Sunday", "time": "11am \u2013 10pm" },
-    { "days": "Happy Hour", "time": "4\u20136pm Daily" }
+    { "days": "Sun\u2013Wed", "time": "11am \u2013 10pm" },
+    { "days": "Thu\u2013Sat", "time": "11am \u2013 11pm" },
+    { "days": "Happy Hour", "time": "3\u20136pm Mon\u2013Fri" },
+    { "days": "Happiest Hour", "time": "9\u201310pm Sun\u2013Wed" }
   ],
   "socialLinks": [
-    { "platform": "Instagram", "url": "#" },
+    { "platform": "Instagram", "url": "https://instagram.com/rippystableandtavern" },
     { "platform": "Facebook", "url": "#" },
     { "platform": "TikTok", "url": "#" }
   ]
