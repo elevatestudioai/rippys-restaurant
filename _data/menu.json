@@ -1,141 +1,154 @@
 {
   "categories": [
     {
-      "name": "Starters",
-      "id": "starters",
+      "name": "Appetizers",
+      "id": "appetizers",
       "items": [
+        { "name": "Party Fries", "description": "French fries topped with your choice of pulled pork or chili, queso, shredded cheese blend, bacon, sour cream, and chives.", "price": "$17.00" },
+        { "name": "Bologna Board", "description": "Smoked & flash fried bologna chunks accompanied with cheddar cheese, pickles, and buttery crackers.", "price": "$15.00" },
+        { "name": "Pig Platter", "description": "3 rib bones, smoked & flash fried bologna chunks with cheddar cheese, buttery crackers, 3 BBQ sliders, French fries & pickles. Party Fries (+$4).", "price": "$29.00" },
+        { "name": "Basket of Rings", "description": "10 oz golden and crispy onion rings with dressing/dipping sauce of choice.", "price": "$11.00" },
+        { "name": "Jalape\u00f1o Cornbread Basket", "description": "6 homemade jalape\u00f1o cornbread muffins with home-made honey butter.", "price": "$9.00" },
+        { "name": "Chips with Queso and Salsa", "description": "House-made creamy queso dip and house-made salsa with tortilla chips.", "price": "$11.00" },
+        { "name": "Nachos", "description": "Choose one: grilled chicken, pulled pork, or chili. Bed of tortilla chips covered in a shredded cheese blend, creamy queso, grilled onions & peppers, salsa & sour cream.", "price": "$15.00" },
+        { "name": "Fried Pickles", "description": "8 oz of hand-battered dill pickle chips with dressing/dipping sauce of choice.", "price": "$9.00" },
+        { "name": "Cheese Buttons", "description": "Fried cheddar & pepper jack cheese cubes served with ranch or honey mustard.", "price": "$12.00" },
+        { "name": "Quesadilla", "description": "Filled with choice of grilled chicken, house smoked pulled pork, or steamed veggies, shredded cheese blend, grilled onions & peppers. Side of sour cream & salsa.", "price": "$15.00" }
+      ]
+    },
+    {
+      "name": "Soup & Salad",
+      "id": "soupsalad",
+      "items": [
+        { "name": "RTT Dinner Salad", "description": "Spring mix lettuce with shredded cheese blend, onions, cucumber, tomato, and croutons. Add grilled chicken breast ($8), fried chicken ($8), salmon ($10), smoked pulled BBQ ($8), or chicken salad ($8).", "price": "Full: $12 | Side: $6" },
+        { "name": "Country Club Salad", "description": "Spring mix lettuce with shredded cheese blend, deli ham and turkey, bacon, boiled egg, tomato, and croutons.", "price": "$17.00" },
+        { "name": "Chili / Soup of the Day", "description": "", "price": "Bowl: $9 | Cup: $6" }
+      ],
+      "optionsGroups": [
         {
-          "name": "Bologna Board",
-          "description": "Smoked & flash-fried bologna chunks with cheddar cheese, banana peppers, pickles, and crackers.",
-          "price": "$10.00"
-        },
-        {
-          "name": "Pig Platter",
-          "description": "3 rib bones, smoked bologna, cheddar cheese, crackers, 3 BBQ sliders, and French fries.",
-          "price": "$0.00"
-        },
-        {
-          "name": "Jalapeño Cornbread Basket",
-          "description": "6 homemade muffins served with butter.",
-          "price": "$0.00"
-        },
-        {
-          "name": "Fried Pickles",
-          "description": "8oz of hand-battered dill pickle chips.",
-          "price": "$0.00"
-        },
-        {
-          "name": "Basket of Rings",
-          "description": "10oz golden and crispy onion rings.",
-          "price": "$0.00"
-        },
-        {
-          "name": "Cheese Beans",
-          "description": "Fried cheddar and pepperjack cheese cubes.",
-          "price": "$0.00"
-        },
-        {
-          "name": "Nachos",
-          "description": "Choice of grilled chicken, pulled pork, or chili. Covered in cheese, queso, peppers, salsa, and sour cream.",
-          "price": "$0.00"
-        },
-        {
-          "name": "Party Fries",
-          "description": "Choice of pulled pork or chili, topped with queso, cheese, bacon, and sour cream.",
-          "price": "$0.00"
-        },
-        {
-          "name": "Chips with Queso and Salsa",
-          "description": "Housemade creamy queso and fresh salsa.",
-          "price": "$0.00"
+          "heading": "Dressings",
+          "options": [
+            "House-Made Ranch",
+            "Bleu Cheese",
+            "Honey Mustard",
+            "1000 Island",
+            "Italian",
+            "Balsamic"
+          ]
         }
       ]
     },
     {
-      "name": "Handhelds",
-      "id": "handhelds",
+      "name": "Smoked Wings",
+      "id": "wings",
       "items": [
+        { "name": "6 Wings", "description": "", "price": "$11.00" },
+        { "name": "12 Wings", "description": "", "price": "$18.00" },
+        { "name": "18 Wings", "description": "", "price": "$25.00" }
+      ],
+      "optionsGroups": [
         {
-          "name": "The Tavern Salad",
-          "description": "Fresh greens, tomatoes, cucumbers, cheese, and croutons.",
-          "price": "$0.00"
-        },
-        {
-          "name": "Table Burger",
-          "description": "Black Angus beef, choice of cheese, lettuce, tomato, onion, and pickle. Served with 1 side.",
-          "price": "$0.00"
-        },
-        {
-          "name": "Smokehouse Burger",
-          "description": "Angus patty topped with BBQ pulled pork, cheddar, onion ring, and BBQ sauce. Served with 1 side.",
-          "price": "$0.00"
-        },
-        {
-          "name": "The Big Rippy",
-          "description": "Two 8oz Angus patties, bacon, American and Swiss, fried pickles, and special sauce. Served with 1 side.",
-          "price": "$0.00"
-        },
-        {
-          "name": "Pulled Pork Sandwich",
-          "description": "Slow-smoked pulled pork on a toasted bun with BBQ sauce and slaw. Served with 1 side.",
-          "price": "$0.00"
-        },
-        {
-          "name": "Catfish Po'Boy",
-          "description": "Fried catfish fillets, lettuce, tomato, and remoulade on a hoagie roll. Served with 1 side.",
-          "price": "$0.00"
+          "heading": "Sauces",
+          "options": [
+            "Buffalo",
+            "BBQ",
+            "Comeback Y'all",
+            "Teriyaki",
+            "Lemon Pepper",
+            "Hot Rub",
+            "Honey Sriracha",
+            "Garlic Herb",
+            "Mango Habanero",
+            "Dry Rub"
+          ]
         }
       ]
     },
     {
-      "name": "Plates & Sides",
-      "id": "plates",
+      "name": "Baskets",
+      "id": "baskets",
       "items": [
-        {
-          "name": "Meat & 2 Sides",
-          "description": "Served with a jalapeño cornbread muffin.",
-          "price": "$0.00"
-        },
-        {
-          "name": "Meat & 3 Sides",
-          "description": "Served with a jalapeño cornbread muffin.",
-          "price": "$0.00"
-        },
-        {
-          "name": "4 Veggie Plate",
-          "description": "Choice of 4 tavern sides and a cornbread muffin.",
-          "price": "$0.00"
-        }
+        { "name": "Little Piggy Basket", "description": "3 rib bones with fries.", "price": "$14.00" },
+        { "name": "Catfish Basket", "description": "5 hand-breaded catfish strips served with slaw, fries & tartar sauce.", "price": "$16.00" },
+        { "name": "Chicken Tenders Basket", "description": "4 hand breaded white meat chicken tenders served with fries and dipping sauce.", "price": "$15.00" }
+      ]
+    },
+    {
+      "name": "Sandwiches",
+      "id": "sandwiches",
+      "items": [
+        { "name": "Pulled Pork Sliders", "description": "3 house smoked pulled BBQ pork sliders topped with cole slaw & pickles.", "price": "$15.00" },
+        { "name": "Cheeseburger Sliders", "description": "3 ground beef pattie sliders, American cheese, grilled onions & pickles.", "price": "$15.00" },
+        { "name": "Buffalo Sliders", "description": "3 grilled/fried chicken sliders, tossed in buffalo sauce, provolone cheese & pickles.", "price": "$15.00" },
+        { "name": "Chicken Salad", "description": "Homemade chicken salad, provolone, lettuce & tomato. Sandwich or wrap.", "price": "$14.00" },
+        { "name": "Chicken Wrap", "description": "Grilled/fried chicken, provolone, lettuce & tomato.", "price": "$14.00" },
+        { "name": "Turkey Wrap", "description": "Smoked deli turkey, provolone, lettuce, & tomato.", "price": "$14.00" },
+        { "name": "Reuben", "description": "Thinly sliced corned beef or turkey grilled on toasted marble rye with provolone, sour kraut, & 1,000 island dressing.", "price": "$17.00" },
+        { "name": "Fish Sandwich", "description": "Fried catfish or cod with lettuce, tomato, & tartar sauce on brioche bun.", "price": "$18.00" },
+        { "name": "BBQ Sandwich", "description": "In-house slow smoked & hand pulled pork, topped with cole slaw, RT&T signature BBQ sauce & pickle.", "price": "$15.00" },
+        { "name": "The Club", "description": "3 slices of white bread stacked & grilled ham, turkey, bacon, Swiss & American cheeses, lettuce, tomato & mayo.", "price": "$16.00" },
+        { "name": "Good Old Days Bologna", "description": "Thick slice of in-house smoked bologna, grilled/fried, American cheese, yellow mustard & pickle.", "price": "$13.00" },
+        { "name": "Pop's Chicken", "description": "8 oz. breast grilled/fried, buffalo, or blackened. Pepper jack, cheddar, or Swiss cheese. Lettuce, tomato, onion & pickle.", "price": "$16.00" },
+        { "name": "Grown-Up Grilled Cheese", "description": "Cheddar and Swiss on white bread. Add bacon $2.", "price": "" }
+      ]
+    },
+    {
+      "name": "Burgers",
+      "id": "burgers",
+      "items": [
+        { "name": "The Big Ripper", "description": "7 oz flame-broiled beef patty (can sub turkey patty), American cheese with lettuce, onion, tomato, and pickle on brioche bun.", "price": "$16.00" },
+        { "name": "Smokin' Burger", "description": "7 oz flame grilled beef patty covered in house-made BBQ sauce, bacon, cheddar cheese, lettuce, tomato & onion tanglers on brioche bun.", "price": "$18.00" },
+        { "name": "Black Bean Burger", "description": "Hand-made black bean patty with choice of cheese, lettuce, tomato, onion & pickle.", "price": "$14.00" },
+        { "name": "Jalape\u00f1o Burger", "description": "7 oz flame grilled patty covered in grilled jalape\u00f1os & cheddar cheese, lettuce, tomato, crispy onion tanglers & chipotle mayo on brioche bun.", "price": "$18.00" }
+      ]
+    },
+    {
+      "name": "Entr\u00e9es",
+      "id": "entrees",
+      "items": [
+        { "name": "Big Kenny's Hibachi Bowl", "description": "Long grain wild rice, grilled squash, broccoli, water chestnuts, carrots & onions tossed in teriyaki sauce & topped with grilled pineapple & wonton strips. Add chicken: $5. Add salmon: $9.", "price": "" },
+        { "name": "Salmon", "description": "6 oz. grilled or blackened & brushed with teriyaki sauce. Choice of 2 sides (one premium side included).", "price": "$24.00" },
+        { "name": "Rippy's Good Times Ribs", "description": "St. Louis style ribs, Rippy rubbed with signature family seasoning blend & smoked to perfection in house. Choice of 2 sides (one premium side included).", "price": "Full: $34 | Half: $25" },
+        { "name": "Rib-Eye", "description": "12 oz tender & juicy grilled rib-eye cooked to desired temp. Choice of 2 sides (one premium side included).", "price": "$34.00" }
+      ]
+    },
+    {
+      "name": "Mama's Meat & Three",
+      "id": "meatandthree",
+      "items": [
+        { "name": "Meat & 2", "description": "Served with jalape\u00f1o cornbread muffin. One premium side included.", "price": "$15.00" },
+        { "name": "Meat & 3", "description": "Served with jalape\u00f1o cornbread muffin. One premium side included.", "price": "$16.00" },
+        { "name": "4 Veggie Plate", "description": "Served with jalape\u00f1o cornbread muffin.", "price": "$14.00" }
       ],
       "optionsGroups": [
         {
           "heading": "Meats",
           "options": [
-            "Country Fried Chicken & Gravy",
+            "Country Fried Chicken & White Gravy",
             "Grilled or Blackened Chicken",
-            "Catfish (Grilled, Blackened, or Fried)",
-            "Hamburger Steak",
-            "Hand-pulled Smoked BBQ Pork"
+            "Grilled, Blackened, or Fried Catfish",
+            "Hamburger Steak with Saut\u00e9ed Mushrooms & Onions",
+            "Hand-Pulled Smoked BBQ Pork"
           ]
         },
         {
-          "heading": "Sides",
+          "heading": "Sides ($4)",
           "options": [
-            "Mashed Potatoes",
-            "Turnip Greens",
-            "Green Beans",
-            "White Beans",
-            "Creamed Corn",
-            "Fried Okra",
+            "Broccoli and Queso",
             "Cole Slaw",
             "French Fries",
-            "Vegetables at the Ritz",
-            "Steamed Broccoli",
-            "Steamed Mixed Veggies",
-            "Mac & Cheese",
+            "Steamed Broccoli with Side of Queso",
+            "Steamed Mixed Veggies (Brocc, Cauliflower, Carrots, Squash, Onions)"
+          ]
+        },
+        {
+          "heading": "Premium Sides ($6)",
+          "options": [
             "Baked Potato",
             "Baked Sweet Potato",
-            "Onion Rings"
+            "Onion Rings",
+            "Mac & Cheese",
+            "Vegetables at the Ritz (Warm Cheesy Mixed Vegetable Casserole)"
           ]
         }
       ]
@@ -144,57 +157,24 @@
       "name": "Desserts",
       "id": "desserts",
       "items": [
-        {
-          "name": "Monkey Cake",
-          "description": "Chocolate banana cake with chocolate chips, chocolate icing, caramel drizzle, and whipped cream.",
-          "price": "$0.00"
-        },
-        {
-          "name": "Lexi's Elvis Cake",
-          "description": "",
-          "price": "$0.00"
-        }
+        { "name": "Monkey Cake", "description": "Chocolate banana cake with mini chocolate chips and homemade chocolate icing, topped with a caramel drizzle & whipped cream. Add scoop vanilla ice cream $2.", "price": "$8.00" },
+        { "name": "Lexi's Elvis Cake", "description": "Moist yellow cake drenched in a sweet crushed pineapple glaze with cream cheese and pecan frosting.", "price": "$8.00" },
+        { "name": "Heritage Cherry Crunch", "description": "A warm cherry pie filling mixed with gooey yellow cake batter and toasted, buttery pecans \u2013 topped with whipped cream. Add scoop vanilla ice cream $2.", "price": "$8.00" },
+        { "name": "Nash-Vegas Ooey Gooey Bars", "description": "Ooey gooey butter, cream cheese, and yellow cake bar.", "price": "$6.00" },
+        { "name": "Single Scoop Vanilla Ice Cream", "description": "", "price": "$3.00" }
       ]
     },
     {
-      "name": "Kids & Small Bites",
+      "name": "Kids Meals",
       "id": "kids",
       "items": [
-        {
-          "name": "Kensley's Chicken Tenders",
-          "description": "Includes 1 side and a drink.",
-          "price": "$0.00"
-        },
-        {
-          "name": "Ella's Grilled Cheese",
-          "description": "Includes 1 side and a drink.",
-          "price": "$0.00"
-        },
-        {
-          "name": "BBQ Pork Sandwich",
-          "description": "Includes 1 side and a drink.",
-          "price": "$0.00"
-        },
-        {
-          "name": "Jameson's Cheeseburger",
-          "description": "Includes 1 side and a drink.",
-          "price": "$0.00"
-        },
-        {
-          "name": "Catfish Fingers",
-          "description": "Includes 1 side and a drink.",
-          "price": "$0.00"
-        },
-        {
-          "name": "Cheese Quesadilla",
-          "description": "Includes 1 side and a drink.",
-          "price": "$0.00"
-        },
-        {
-          "name": "3 Wings",
-          "description": "Includes 1 side and a drink.",
-          "price": "$0.00"
-        }
+        { "name": "Kensley's Chicken Tenders", "description": "Includes 1 side and a drink.", "price": "$8.00" },
+        { "name": "Ella's Grilled Cheese", "description": "Includes 1 side and a drink.", "price": "$8.00" },
+        { "name": "BBQ Pork Sandwich", "description": "Includes 1 side and a drink.", "price": "$8.00" },
+        { "name": "Jameson's Cheeseburger", "description": "Includes 1 side and a drink.", "price": "$8.00" },
+        { "name": "Catfish Fingers", "description": "Includes 1 side and a drink.", "price": "$8.00" },
+        { "name": "Cheese Quesadilla", "description": "Includes 1 side and a drink.", "price": "$8.00" },
+        { "name": "3 Wings (Fried or Grilled)", "description": "Includes 1 side and a drink.", "price": "$8.00" }
       ]
     }
   ]
