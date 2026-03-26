@@ -39,16 +39,19 @@
       ]
     },
     {
-      "name": "Smoked Wings",
-      "id": "wings",
+      "name": "Wings & Baskets",
+      "id": "wingsbaskets",
       "items": [
         { "name": "6 Wings", "description": "", "price": "$11.00" },
         { "name": "12 Wings", "description": "", "price": "$18.00" },
-        { "name": "18 Wings", "description": "", "price": "$25.00" }
+        { "name": "18 Wings", "description": "", "price": "$25.00" },
+        { "name": "Little Piggy Basket", "description": "3 rib bones with fries.", "price": "$14.00" },
+        { "name": "Catfish Basket", "description": "5 hand-breaded catfish strips served with slaw, fries & tartar sauce.", "price": "$16.00" },
+        { "name": "Chicken Tenders Basket", "description": "4 hand breaded white meat chicken tenders served with fries and dipping sauce.", "price": "$15.00" }
       ],
       "optionsGroups": [
         {
-          "heading": "Sauces",
+          "heading": "Wing Sauces",
           "options": [
             "Buffalo",
             "BBQ",
@@ -65,17 +68,8 @@
       ]
     },
     {
-      "name": "Baskets",
-      "id": "baskets",
-      "items": [
-        { "name": "Little Piggy Basket", "description": "3 rib bones with fries.", "price": "$14.00" },
-        { "name": "Catfish Basket", "description": "5 hand-breaded catfish strips served with slaw, fries & tartar sauce.", "price": "$16.00" },
-        { "name": "Chicken Tenders Basket", "description": "4 hand breaded white meat chicken tenders served with fries and dipping sauce.", "price": "$15.00" }
-      ]
-    },
-    {
-      "name": "Sandwiches",
-      "id": "sandwiches",
+      "name": "Sandwiches & Burgers",
+      "id": "sandwichesburgers",
       "items": [
         { "name": "Pulled Pork Sliders", "description": "3 house smoked pulled BBQ pork sliders topped with cole slaw & pickles.", "price": "$15.00" },
         { "name": "Cheeseburger Sliders", "description": "3 ground beef pattie sliders, American cheese, grilled onions & pickles.", "price": "$15.00" },
@@ -89,13 +83,7 @@
         { "name": "The Club", "description": "3 slices of white bread stacked & grilled ham, turkey, bacon, Swiss & American cheeses, lettuce, tomato & mayo.", "price": "$16.00" },
         { "name": "Good Old Days Bologna", "description": "Thick slice of in-house smoked bologna, grilled/fried, American cheese, yellow mustard & pickle.", "price": "$13.00" },
         { "name": "Pop's Chicken", "description": "8 oz. breast grilled/fried, buffalo, or blackened. Pepper jack, cheddar, or Swiss cheese. Lettuce, tomato, onion & pickle.", "price": "$16.00" },
-        { "name": "Grown-Up Grilled Cheese", "description": "Cheddar and Swiss on white bread. Add bacon $2.", "price": "" }
-      ]
-    },
-    {
-      "name": "Burgers",
-      "id": "burgers",
-      "items": [
+        { "name": "Grown-Up Grilled Cheese", "description": "Cheddar and Swiss on white bread. Add bacon $2.", "price": "" },
         { "name": "The Big Ripper", "description": "7 oz flame-broiled beef patty (can sub turkey patty), American cheese with lettuce, onion, tomato, and pickle on brioche bun.", "price": "$16.00" },
         { "name": "Smokin' Burger", "description": "7 oz flame grilled beef patty covered in house-made BBQ sauce, bacon, cheddar cheese, lettuce, tomato & onion tanglers on brioche bun.", "price": "$18.00" },
         { "name": "Black Bean Burger", "description": "Hand-made black bean patty with choice of cheese, lettuce, tomato, onion & pickle.", "price": "$14.00" },
