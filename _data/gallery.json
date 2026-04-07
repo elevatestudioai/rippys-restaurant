@@ -1,7 +1,16 @@
 {
   "photos": [
-    { "image": "", "alt": "Draft beers at Rippy's" },
-    { "image": "", "alt": "Scratch-made food at Rippy's" },
-    { "image": "", "alt": "Good times at Rippy's" }
+    {
+      "image": "/images/uploads/img_7690.jpeg",
+      "alt": "Fried onion rings  at Rippy's"
+    },
+    {
+      "image": "/images/uploads/img_6622.jpeg",
+      "alt": "Good times at Rippy's"
+    },
+    {
+      "image": "/images/uploads/img_7729.jpeg",
+      "alt": "Scratch-made drinks at Rippy's"
+    }
   ]
 }
