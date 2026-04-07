@@ -1,5 +1,18 @@
 {
   "handle": "rippystableandtavern",
   "profileUrl": "https://instagram.com/rippystableandtavern",
-  "photos": []
+  "photos": [
+    {
+      "alt": "Instagram post",
+      "image": "/images/uploads/tezza-1526.jpeg"
+    },
+    {
+      "alt": "Instagram post",
+      "image": "/images/uploads/rtt-post-2.png"
+    },
+    {
+      "alt": "Instagram post",
+      "image": "/images/uploads/easter-posts-5.jpeg"
+    }
+  ]
 }
