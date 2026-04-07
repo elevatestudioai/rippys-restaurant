@@ -5,14 +5,35 @@
   "address": "8058 TN-100, Nashville, TN 37221",
   "email": "rippystableandtavern615@gmail.com",
   "hours": [
-    { "days": "Sun\u2013Wed", "time": "11am \u2013 10pm" },
-    { "days": "Thu\u2013Sat", "time": "11am \u2013 11pm" },
-    { "days": "Happy Hour", "time": "3\u20136pm Mon\u2013Fri" },
-    { "days": "Happiest Hour", "time": "9\u201310pm Sun\u2013Wed" }
+    {
+      "days": "Sun–Wed",
+      "time": "11am – 10pm"
+    },
+    {
+      "days": "Thu–Sat",
+      "time": "11am – 10:30pm"
+    },
+    {
+      "days": "Happy Hour",
+      "time": "3–6pm Mon–Fri"
+    },
+    {
+      "days": "Happiest Hour",
+      "time": "9–10pm Sun–Wed"
+    }
   ],
   "socialLinks": [
-    { "platform": "Instagram", "url": "https://instagram.com/rippystableandtavern" },
-    { "platform": "Facebook", "url": "#" },
-    { "platform": "TikTok", "url": "#" }
+    {
+      "platform": "Instagram",
+      "url": "https://instagram.com/rippystableandtavern"
+    },
+    {
+      "platform": "Facebook",
+      "url": "#"
+    },
+    {
+      "platform": "TikTok",
+      "url": "#"
+    }
   ]
 }
