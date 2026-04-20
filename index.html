@@ -288,19 +288,16 @@
 
         /* ========== PHOTO STRIP ========== */
         .photo-strip {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            gap: 1.5rem;
-            padding: 2rem 1.5rem;
-            flex-wrap: wrap;
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 0;
+            width: 100%;
         }
         .photo-strip img {
-            width: 380px;
-            height: 380px;
-            max-width: 100%;
+            width: 100%;
             aspect-ratio: 1 / 1;
             object-fit: cover;
+            display: block;
             filter: brightness(0.85) saturate(0.85);
             transition: all 0.6s ease;
         }
@@ -493,8 +490,7 @@
             .nav-links.open { display: flex; }
             .nav-links a { font-size: 1rem; }
             .nav-toggle { display: flex; z-index: 1001; }
-            .photo-strip { gap: 1rem; padding: 1.5rem 1rem; }
-            .photo-strip img { width: 280px; height: 280px; }
+            .photo-strip { grid-template-columns: 1fr; }
             .instagram-grid { grid-template-columns: repeat(2, 1fr); }
             .footer-grid { grid-template-columns: 1fr; }
             .footer-bottom { flex-direction: column; gap: 1rem; text-align: center; }
